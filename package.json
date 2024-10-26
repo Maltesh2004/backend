@@ -1,0 +1,11 @@
+{
+  "name": "chai",
+  "version": "1.0.0",
+  "description": "this is a eraser website\r - [model link](https://app.eraser.io/workspace/YtpqZ1vogxGy1jzIDkzj?origin=share)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maalu",
+  "license": "ISC"
+}
